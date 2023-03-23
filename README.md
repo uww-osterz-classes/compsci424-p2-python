@@ -14,7 +14,7 @@ Write only Python 3 code. Python 2 code is deprecated and is not guaranteed to w
 
 This Python template repository does not include a virtual environment. You are welcome to add any virtual environment that you like and push it to your own repository. If you just want to keep it simple and run plain Python code, that's fine too.
 
-If you are encountering problems, please commit and push your current code, then [email me](osterz@uww.edu) with a description of what's happening. I will look at your repository on GitHub to try to help you debug.
+If you are encountering problems, please commit and push your code, then [email me](osterz@uww.edu) with a description of what's happening. I will look at your repository on GitHub to try to help you debug.
 
 ## Advice for Python programmers
 
